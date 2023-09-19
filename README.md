@@ -1,4 +1,6 @@
-### Hi there 👋
+###  Welcome, this is Harim-000 ✨
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harim-000&show_icons=true&theme=gruvbox) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harim-000&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **harim-000/harim-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
