@@ -18,11 +18,24 @@ Beyond simply implementing features, I enjoy understanding existing systems, imp
 
 **Database** | MySQL · Oracle
 
-**Frontend** | JSP · JavaScript · Vue.js · WebSquare · Nexacro
+**Frontend / Enterprise UI** | JSP · JavaScript · Vue.js · WebSquare · Nexacro
 
 **DevOps & Tools** | Git · Jenkins · Datadog · Codex CLI
 
 **Currently Exploring** | OpenSearch · Docker · AWS
+
+<br>
+
+## 📜 Certifications
+
+- 정보처리기사
+- SQLD
+  
+<br>
+
+## 🌐 Language
+
+- IELTS Academic 7.0
 
 <br>
 
