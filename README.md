@@ -18,7 +18,7 @@ Beyond simply implementing features, I enjoy understanding existing systems, imp
 
 **Database** | MySQL · Oracle
 
-**Frontend / Enterprise UI** | JSP · JavaScript · Vue.js · WebSquare · Nexacro
+**Frontend / Enterprise UI** | JSP · JavaScript · Vue.js
 
 **DevOps & Tools** | Git · Jenkins · Datadog · Codex CLI
 
